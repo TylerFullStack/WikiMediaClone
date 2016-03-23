@@ -1,0 +1,50 @@
+.text-at-top { 
+    
+    text-align: center; 
+
+}
+
+.welcome-text { 
+
+position: relative;
+text-align: right; 
+align-content: right;
+
+
+}
+
+.home-page-product-card {
+    width: 24%;
+    display: inline-block; 
+    cursor: pointer;
+ 
+  height: 250px;
+  text-align: center; 
+  overflow: hidden; 
+  
+}
+
+.home-page-product-card img {
+    height: 60%;
+}
+
+.home-page-content-bottom { 
+   
+    padding-left: 6%;
+
+
+}
+
+.footer-text {
+       text-align: center; 
+    }
+
+.footer-container { 
+
+
+ height: 1px; 
+ width: 100%; 
+ color: black; 
+}
+
+
